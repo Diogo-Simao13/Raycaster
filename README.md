@@ -6,7 +6,7 @@ Not finished yet, but currently renders the map.
 ## `Features`
 
 - 2D map rendering  
-- Basic player movement (coming soon)  
+- Basic player movement
 - Raycasting engine (in progress)
 
 ## `How to build`
