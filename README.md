@@ -16,4 +16,4 @@ Requires Raylib installed. Compile with:
 ```bash
 gcc main.c -o raycaster -lraylib -lopengl32 -lgdi32 -lwinmm
 ```
-raylib [⬇️ Download](https://www.raylib.com/)
+raylib [⬇️ Download](raysan5.itch.io/raylib/download/eyJpZCI6ODUzMzEsImV4cGlyZXMiOjE3NTAzMjYwMzF9.woyBiKMzLsWbs70UFGJOJ8SZDWg%3d)
