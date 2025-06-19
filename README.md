@@ -11,7 +11,7 @@ Not finished yet, but currently renders the map.
 
 ## `How to build`
 
-```Requires Raylib installed. Compile with:
+Requires Raylib installed. Compile with:
 
 ```bash
 gcc main.c -o raycaster -lraylib -lopengl32 -lgdi32 -lwinmm
