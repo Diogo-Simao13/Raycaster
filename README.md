@@ -1,3 +1,6 @@
+#discontinued
+
+
 # `Raycaster`
 
 Simple raycaster engine in C using Raylib.  
